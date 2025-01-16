@@ -27,5 +27,3 @@ The SPT Protocol is a framework for dynamic, adaptable AI behavior. It models pe
 ### Get Involved
 - Join the discussion by opening an issue or submitting a pull request.
 
-### License
-This project is licensed under the MIT License.
